@@ -23,10 +23,6 @@ SuperMarkit uses a webscraping script that traverses through the URLs of the Lea
 # Credits
 I'd like to thank The Net Ninja who created [this tutorial](https://www.youtube.com/watch?v=n-FTlQ7Djqc, "this tutorial") that taught me the basics of Django. I'd also like to thank [this tutorial](https://www.youtube.com/watch?v=YZvRrldjf1Y) by FreeCodeCamp, that helped me greatly on this project.
 
-# Video-Demo
-The image below will redirect you to the video demo on Youtube
-[<img src="https://img.youtube.com/vi/i9ZL6qu5PH0/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=i9ZL6qu5PH0)
-
 # Screenshots
 <img src="Screenshots/categories.png" width="500">
 <img src="Screenshots/products.png" width="500">
