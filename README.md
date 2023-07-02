@@ -8,7 +8,6 @@ A webscraper for the Django Framework that compares the product prices for vario
 - [Installation](https://github.com/RamonWill/price-comparison-project#Installation)
 - [About](https://github.com/RamonWill/price-comparison-project#About)
 - [Credits](https://github.com/RamonWill/price-comparison-project#Credit)
-- [Video Demo](https://github.com/RamonWill/price-comparison-project#Video-Demo)
 - [Screenshots](https://github.com/RamonWill/price-comparison-project#Screenshots)
 
 # Introduction
